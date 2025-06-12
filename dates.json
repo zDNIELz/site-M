@@ -1,0 +1,146 @@
+[
+    {
+        "id": 0,
+        "title": "",
+        "tag": "",
+        "data": "",
+        "mensagem": "",
+        "imagem": ""
+    },
+    {
+        "id": 1,
+        "title": "1° Foto",
+        "tag": "1° Foto Juntos",
+        "data": "17/09/23",
+        "mensagem": "",
+        "imagem": "./photos/f1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Namoro?",
+        "tag": "Pedido",
+        "data": "22/10/23",
+        "mensagem": "O pedido de namoro sem pergunta (Você não tinha opção).",
+        "imagem": ""
+    },
+    {
+        "id": 3,
+        "title": "1° Favorita",
+        "tag": "Foto antiga",
+        "data": "<2022",
+        "mensagem": "",
+        "imagem": "./photos/f2.jpg"
+    },
+    {
+        "id": 3.5,
+        "title": "Só por falar",
+        "tag": "Te amo",
+        "data": "12/06/25",
+        "mensagem": "Te amo. Hoje, amanhã e em todos os dias bobos.",
+        "imagem": ""
+    },
+    {
+        "id": 4,
+        "title": "Favorita",
+        "tag": "Atual é dificil",
+        "data": "14/05/25",
+        "mensagem": "",
+        "imagem": "./photos/f3.jpg"
+    },
+    {
+        "id": 4.5,
+        "title": "Amar você",
+        "tag": "Meu amor",
+        "data": "12/06/25",
+        "mensagem": "Te amo por tudo. Até o que você não gosta.",
+        "imagem": ""
+    },
+    {
+        "id": 5,
+        "title": "Espetaculo",
+        "tag": "1° que fui",
+        "data": "10/12/23",
+        "mensagem": "",
+        "imagem": "./photos/f4.jpg"
+    },
+    {
+        "id": 5.5,
+        "title": "Com você",
+        "tag": "Só nós",
+        "data": "12/06/25",
+        "mensagem": "Até o silêncio ao seu lado é confortável.",
+        "imagem": ""
+    },
+    {
+        "id": 6,
+        "title": "Meu niver",
+        "tag": "1 mês depois",
+        "data": "18/02/24",
+        "mensagem": "",
+        "imagem": "./photos/f5.jpg"
+    },
+    {
+        "id": 6.5,
+        "title": "Apois você",
+        "tag": "Sou mais feliz",
+        "data": "12/06/25",
+        "mensagem": "Depois de você, a vida ficou muito mais bonita.",
+        "imagem": ""
+    },
+    {
+        "id": 7,
+        "title": "Parque",
+        "tag": "Rolezin",
+        "data": "20/06/24",
+        "mensagem": "",
+        "imagem": "./photos/f6.jpg"
+    },
+    {
+        "id": 7.5,
+        "title": "Nosso futuro",
+        "tag": "Sonho",
+        "data": "12/06/25",
+        "mensagem": "Se for com você, eu topo qualquer caminho.",
+        "imagem": ""
+    },
+    {
+        "id": 8,
+        "title": "Seu niver",
+        "tag": "Tony e Josi tava",
+        "data": "06/10/24",
+        "mensagem": "",
+        "imagem": "./photos/f7.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Praia",
+        "tag": "Tu linda d+",
+        "data": "02/03/25",
+        "mensagem": "",
+        "imagem": "./photos/f8.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Espetaculo",
+        "tag": "O dia inteiro",
+        "data": "27/04/25",
+        "mensagem": "",
+        "imagem": "./photos/f9.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Evento",
+        "tag": "Tu toda linda",
+        "data": "08/06/25",
+        "mensagem": "",
+        "imagem": "./photos/f10.jpg"
+    },
+    {
+        "id": 0,
+        "title": "",
+        "tag": "",
+        "data": "",
+        "mensagem": "",
+        "imagem": ""
+    }
+]

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>...</title>
+    <!-- Icons -->
+    <script src="https://kit.fontawesome.com/2d409917ce.js" crossorigin="anonymous"></script>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Satisfy&display=swap"
+        rel="stylesheet">
+    <!-- Style -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div id="Loalding"></div>
+
+    <header>
+        <nav>
+            <button onclick="PageView('Page1', this)" class="active-btn">Home</button>
+            <button onclick="PageView('Page2', this)">Letters</button>
+            <button onclick="PageView('Page4', this)">Leaflet</i></button>
+            <button onclick="PageView('Page5', this)">My Love</button>
+        </nav>
+    </header>
+
+    <section id="Page1" class="active">
+        <canvas onclick="Click()" id="matrix"></canvas>
+        <!--<div class="ThemeButtons">
+            <button id="GetStartHome">Get Start</button>
+        </div>-->
+    </section>
+
+    <section id="Page2">
+        <div id="ContainerLettersWrapper">
+            <div id="ContainerLetters"></div>
+        </div>
+        <div class="LetterButtons">
+            <button onclick="movePrev()" id="prevBtn"><i class="fa-solid fa-arrow-left"></i></button>
+            <button onclick="moveNext()" id="nextBtn"><i class="fa-solid fa-arrow-right"></i></button>
+        </div>
+        <div class="MusicPlayer">
+            <div class="MusicInfo">
+                <img src="" alt="Capa" class="Cover" id="Capa" />
+                <div class="TrackDetails">
+                    <div id="TrackTitle"></div>
+                    <div id="TrackArtist"></div>
+                </div>
+            </div>
+
+            <div class="MusicControls">
+                <button onclick="prevSong()"><i class="fa-solid fa-backward-step"></i></button>
+                <button onclick="togglePlay()" id="playBtn"><i class="fa-solid fa-pause"></i></button>
+                <button onclick="nextSong()"><i class="fa-solid fa-forward-step"></i></button>
+            </div>
+
+            <div class="ProgressBar">
+                <input type="range" id="Progress" value="0" />
+            </div>
+            <audio id="audio" src="" type="audio/mpeg"></audio>
+        </div>
+    </section>
+
+    <section id="Page3">
+        
+    </section>
+
+    <section id="Page4">
+        <div class="card">
+            <div class="cover">
+                <img src="" alt="" id="cardCapa">
+                <img src="" alt="" id="cardContra">
+            </div>
+            <div class="content">
+                <h2 id="Ftitle"></h2>
+                <p id="Ftext"></p>
+                <img src="" alt="" id="Fimg">
+            </div>
+        </div>
+    </section>
+
+    <section id="Page5">
+        <canvas id="pinkboard" style="width: 100%; height: 100%;"></canvas>
+    </section>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

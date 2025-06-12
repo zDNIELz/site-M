@@ -1,0 +1,14 @@
+[
+    {
+        "capa": "./songs/EyedressImg.jpeg",
+        "musica": "./songs/Eyedress.mp3",
+        "artist": "Eyedress",
+        "name": "Something About You"
+    },
+    {
+        "capa": "./songs/JoinMeImg.jpg",
+        "musica": "./songs/JoinMeInDeath.mp3",
+        "artist": "Him",
+        "name": "Join Me in Death"
+    }
+]
